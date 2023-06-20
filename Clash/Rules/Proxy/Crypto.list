@@ -1,6 +1,11 @@
 # > Forum
 DOMAIN-SUFFIX,bitcointalk.org
 
+# > OKX
+;DOMAIN-SUFFIX,okex.com
+;DOMAIN-SUFFIX,okx.com
+;DOMAIN-KEYWORD,okx
+
 # > Exchange
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
@@ -96,11 +101,6 @@ DOMAIN-SUFFIX,huobi.ug
 DOMAIN-SUFFIX,huobi.co.ma
 DOMAIN-SUFFIX,huobi.br.com
 DOMAIN-KEYWORD,huobi
-
-# > OKX
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-KEYWORD,okx
 
 # > asproex
 DOMAIN-SUFFIX,asproex.com
