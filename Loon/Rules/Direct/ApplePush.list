@@ -14,3 +14,10 @@ IP-CIDR6, 2620:149:a44::/48, no-resolve
 IP-CIDR6, 2403:300:a42::/48, no-resolve
 IP-CIDR6, 2403:300:a51::/48, no-resolve
 IP-CIDR6, 2a01:b740:a42::/48, no-resolve
+
+
+# > OKX
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+PROCESS-NAME,OKX.exe
+DOMAIN-KEYWORD,okx
