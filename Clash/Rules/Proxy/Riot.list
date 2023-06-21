@@ -4,6 +4,14 @@
 # UPDATED: 2023-05-28 18:18:42
 # DOMAIN-SUFFIX: 54
 # TOTAL: 54
+
+PROCESS-NAME,LeagueClientUxRender.exe
+PROCESS-NAME,LeagueClientUx.exe
+PROCESS-NAME,LeagueClientUxRender.exe
+PROCESS-NAME,League of Legends.exe
+PROCESS-NAME,LeagueCrashHandler64.exe
+PROCESS-NAME,RiotClientServices.exe
+
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,historyofdota.com
