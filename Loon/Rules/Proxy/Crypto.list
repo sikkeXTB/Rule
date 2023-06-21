@@ -1,6 +1,14 @@
 # > Forum
 DOMAIN-SUFFIX,bitcointalk.org
 
+
+# > OKX
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+PROCESS-NAME,OKX.exe
+DOMAIN-KEYWORD,okx
+
+
 # > Exchange
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
