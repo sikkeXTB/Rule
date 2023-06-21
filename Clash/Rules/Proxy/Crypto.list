@@ -2,9 +2,9 @@
 DOMAIN-SUFFIX,bitcointalk.org
 
 # > OKX
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-KEYWORD,okx
+;DOMAIN-SUFFIX,okex.com
+;DOMAIN-SUFFIX,okx.com
+;DOMAIN-KEYWORD,okx
 
 # > Exchange
 DOMAIN-SUFFIX,aex.com
