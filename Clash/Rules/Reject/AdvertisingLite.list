@@ -7,6 +7,13 @@
 # DOMAIN-SUFFIX: 13733
 # IP-CIDR: 184
 # TOTAL: 37621
+
+#  twitter
+#DOMAIN-SUFFIX,ads-twitter.com
+#DOMAIN-SUFFIX,tellapart.com
+#DOMAIN-SUFFIX,p.twitter.com
+#DOMAIN-SUFFIX,urls.api.twitter.com
+
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
 DOMAIN,0026645142c89aeb1.com
@@ -25291,7 +25298,6 @@ DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,adrotator.se
 DOMAIN-SUFFIX,adrs.sdo.com
 DOMAIN-SUFFIX,adrunnr.com
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,ads-v-darwin.hulustream.com
 DOMAIN-SUFFIX,ads.979799777.com
 DOMAIN-SUFFIX,ads.aplus.pptv.com
@@ -32711,7 +32717,6 @@ DOMAIN-SUFFIX,p.store.qq.com
 DOMAIN-SUFFIX,p.szonline.net
 DOMAIN-SUFFIX,p.tamenshuo.com
 DOMAIN-SUFFIX,p.travelsmarter.net
-DOMAIN-SUFFIX,p.twitter.com
 DOMAIN-SUFFIX,p.yizuya.com
 DOMAIN-SUFFIX,p.zol-img.com.cn
 DOMAIN-SUFFIX,p0y.cn
@@ -35033,7 +35038,6 @@ DOMAIN-SUFFIX,telemetry.appex.bing.net
 DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,telemetry.urs.microsoft.com
 DOMAIN-SUFFIX,televeniesuc.pro
-DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,temai.snssdk.com
 DOMAIN-SUFFIX,temai.taobao.com
 DOMAIN-SUFFIX,temp.163.com
@@ -35743,7 +35747,6 @@ DOMAIN-SUFFIX,url.222bz.com
 DOMAIN-SUFFIX,url.rw
 DOMAIN-SUFFIX,url.tudown.com
 DOMAIN-SUFFIX,urlat.cn
-DOMAIN-SUFFIX,urls.api.twitter.com
 DOMAIN-SUFFIX,urs.zdnet.com
 DOMAIN-SUFFIX,urtracker.q-sis.de
 DOMAIN-SUFFIX,us.bannyat.com
