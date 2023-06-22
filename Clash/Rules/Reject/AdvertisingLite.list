@@ -9,10 +9,10 @@
 # TOTAL: 37621
 
 #  twitter
-#DOMAIN-SUFFIX,ads-twitter.com
-#DOMAIN-SUFFIX,tellapart.com
-#DOMAIN-SUFFIX,p.twitter.com
-#DOMAIN-SUFFIX,urls.api.twitter.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,p.twitter.com
+DOMAIN-SUFFIX,urls.api.twitter.com
 
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
