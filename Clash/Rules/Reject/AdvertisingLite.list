@@ -8,11 +8,25 @@
 # IP-CIDR: 184
 # TOTAL: 37621
 
-#  twitter
-DOMAIN-SUFFIX,ads-twitter.com
-DOMAIN-SUFFIX,tellapart.com
-DOMAIN-SUFFIX,p.twitter.com
-DOMAIN-SUFFIX,urls.api.twitter.com
+#  Twitter
+;DOMAIN,search.twitter.com
+;DOMAIN,twitter-badges.s3.amazonaws.com
+;DOMAIN,twittercounter.com
+;DOMAIN,twitterforweb.com
+;DOMAIN,twittericon.com
+;DOMAIN,twittermysite.com
+;DOMAIN-SUFFIX,ads-twitter.com
+;DOMAIN-SUFFIX,ads.twitter.com
+;DOMAIN-SUFFIX,analytics.twitter.com
+;DOMAIN-SUFFIX,p.twitter.com
+;DOMAIN-SUFFIX,scribe.twitter.com
+;DOMAIN-SUFFIX,syndication-o.twitter.com
+;DOMAIN-SUFFIX,syndication.twitter.com
+;DOMAIN-SUFFIX,twitterzs.com
+;DOMAIN-SUFFIX,urls.api.twitter.com
+
+
+
 
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
@@ -17613,7 +17627,6 @@ DOMAIN,seal.verisign.com
 DOMAIN,sealserver.trustwave.com
 DOMAIN,seaofads.com
 DOMAIN,seaoocyjpq.com
-DOMAIN,search.twitter.com
 DOMAIN,search.video.iqiyi.com
 DOMAIN,search123.uk.com
 DOMAIN,searchdims.network
@@ -20260,11 +20273,6 @@ DOMAIN,twitcker.com
 DOMAIN,twitcount.com
 DOMAIN,twitstat.us
 DOMAIN,twittad.com
-DOMAIN,twitter-badges.s3.amazonaws.com
-DOMAIN,twittercounter.com
-DOMAIN,twitterforweb.com
-DOMAIN,twittericon.com
-DOMAIN,twittermysite.com
 DOMAIN,twitthis.com
 DOMAIN,twm.com.tw
 DOMAIN,twmykwjrpr.com
@@ -25325,7 +25333,6 @@ DOMAIN-SUFFIX,ads.servebom.com
 DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,ads.sina.com
 DOMAIN-SUFFIX,ads.sohu.com
-DOMAIN-SUFFIX,ads.twitter.com
 DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,ads.union.jd.com
 DOMAIN-SUFFIX,ads.videosz.com
@@ -25754,7 +25761,6 @@ DOMAIN-SUFFIX,analytics.thenest.com
 DOMAIN-SUFFIX,analytics.thenewslens.com
 DOMAIN-SUFFIX,analytics.thetab.com
 DOMAIN-SUFFIX,analytics.tool.lu
-DOMAIN-SUFFIX,analytics.twitter.com
 DOMAIN-SUFFIX,analytics.upworthy.com
 DOMAIN-SUFFIX,analytics.us.archive.org
 DOMAIN-SUFFIX,analytics.wanmei.com
@@ -33986,7 +33992,6 @@ DOMAIN-SUFFIX,scout.lexisnexis.com
 DOMAIN-SUFFIX,scout.rollcall.com
 DOMAIN-SUFFIX,scqajt.cn
 DOMAIN-SUFFIX,scrappykoko.com
-DOMAIN-SUFFIX,scribe.twitter.com
 DOMAIN-SUFFIX,scrippsnetworks.com
 DOMAIN-SUFFIX,script-bd.baixing.net
 DOMAIN-SUFFIX,script.crazyegg.com
@@ -34840,10 +34845,8 @@ DOMAIN-SUFFIX,sync.republer.com
 DOMAIN-SUFFIX,sync.teamrtb.net
 DOMAIN-SUFFIX,sync.tidaltv.com
 DOMAIN-SUFFIX,sync2.audtd.com
-DOMAIN-SUFFIX,syndication-o.twitter.com
 DOMAIN-SUFFIX,syndication.intel.com
 DOMAIN-SUFFIX,syndication.jsadapi.com
-DOMAIN-SUFFIX,syndication.twitter.com
 DOMAIN-SUFFIX,syndication1.viraladnetwork.net
 DOMAIN-SUFFIX,syndicpop.com
 DOMAIN-SUFFIX,syndopop.com
@@ -35038,6 +35041,7 @@ DOMAIN-SUFFIX,telemetry.appex.bing.net
 DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,telemetry.urs.microsoft.com
 DOMAIN-SUFFIX,televeniesuc.pro
+DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,temai.snssdk.com
 DOMAIN-SUFFIX,temai.taobao.com
 DOMAIN-SUFFIX,temp.163.com
@@ -35496,7 +35500,6 @@ DOMAIN-SUFFIX,twch.20min.ch
 DOMAIN-SUFFIX,twenticiseflo.site
 DOMAIN-SUFFIX,twh5.com
 DOMAIN-SUFFIX,twinplan.com
-DOMAIN-SUFFIX,twitterzs.com
 DOMAIN-SUFFIX,twldmx.com
 DOMAIN-SUFFIX,twodogegg.cn
 DOMAIN-SUFFIX,twokidjay.com
