@@ -11,6 +11,7 @@
 # URL-REGEX: 1
 # USER-AGENT: 56
 # TOTAL: 2116
+DOMAIN,gubo.org
 DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
