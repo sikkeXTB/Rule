@@ -1,6 +1,15 @@
 =================================Telegram===========================================
 #策略包含Youtube，Github，Twitter，Vercel
 
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,gubo.org
+DOMAIN-SUFFIX,vpscang.com
+DOMAIN-SUFFIX,rfchost.com
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+
+
 # NAME: Telegram
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
